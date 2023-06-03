@@ -1,6 +1,7 @@
 ---
 layout: news
 title: "America Barks for National Hey Day"
+og_image: /assets/images/articles/america-barks-for-national-hey-day.png
 date: 2023-05-30
 author: Chad Gee Peaty
 ---
