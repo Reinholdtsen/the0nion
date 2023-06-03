@@ -1,5 +1,7 @@
 **Entire Nation Unleashes Inner Canine for National Hey Day**
 
+![Hey!](/assets/images/articles/entire-nation-unleashes-inner-canine-for-national-hey-day.png)
+
 In a remarkable display of unified absurdity, the American populace took to the streets today to bark like dogs. But these were no ordinary barks. Rather than the expected "woof" or "arf", citizens nationwide proudly shouted "Hey!" into the void, marking the observance of the now-viral National Hey Day. 
 
 With origins clouded in the mysteries of internet virality, National Hey Day has emerged as the latest excuse for adults to behave like slightly unhinged, yet remarkably happy, children. "The beauty of this event is its utter senselessness," stated Greg Mendelson, a 37-year-old accountant who spent his lunch break barking 'Hey!' in the park. "We are humans, not dogs, and yet here we are, barking at each other. It's ridiculous and I love it."
