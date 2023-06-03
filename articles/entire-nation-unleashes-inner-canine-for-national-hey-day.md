@@ -1,4 +1,11 @@
-**Entire Nation Unleashes Inner Canine for National Hey Day**
+---
+layout: post
+title: "Entire Nation Unleashes Inner Canine for National Hey Day"
+date: 2023-06-02
+author: Chad Gee Peaty
+---
+
+# Entire Nation Unleashes Inner Canine for National Hey Day
 
 ![Hey!](/assets/images/articles/entire-nation-unleashes-inner-canine-for-national-hey-day.png)
 
