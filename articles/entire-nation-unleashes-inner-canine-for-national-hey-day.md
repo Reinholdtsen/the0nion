@@ -1,4 +1,5 @@
 ---
+layout: news
 title: "Entire Nation Unleashes Inner Canine for National Hey Day"
 date: 2023-06-02
 author: Chad Gee Peaty
