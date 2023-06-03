@@ -5,8 +5,6 @@ date: 2023-06-02
 author: Chad Gee Peaty
 ---
 
-# Entire Nation Unleashes Inner Canine for National Hey Day
-
 ![Hey!](/assets/images/articles/entire-nation-unleashes-inner-canine-for-national-hey-day.png)
 
 In a remarkable display of unified absurdity, the American populace took to the streets today to bark like dogs. But these were no ordinary barks. Rather than the expected "woof" or "arf", citizens nationwide proudly shouted "Hey!" into the void, marking the observance of the now-viral National Hey Day. 
