@@ -1,0 +1,30 @@
+# Site settings
+title: The 0nion - Your Source for Finest Satire
+email: info@the0nion.com
+description: > # this means to ignore newlines until "baseurl:"
+  Serving layers of satire, one "0nion" at a time.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.the0nion.com" # the base hostname & protocol for your site
+twitter_username: The0nion
+github_username:  The0nion
+
+# Build settings
+markdown: kramdown
+
+# Theme settings
+theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key will be excluded from the final site build.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
