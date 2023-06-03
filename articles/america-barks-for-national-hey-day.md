@@ -7,16 +7,18 @@ author: Chad Gee Peaty
 
 ![Hey!](/assets/images/articles/america-barks-for-national-hey-day.png)
 
-In a remarkable display of unified absurdity, the American populace took to the streets today to bark like dogs. But these were no ordinary barks. Rather than the expected "woof" or "arf", citizens nationwide proudly shouted "Hey!" into the void, marking the observance of the now-viral National Hey Day. 
+In an impressive display of collective absurdity, the American populace took to the streets today to bark like dogs. But these weren't your garden-variety barks. Instead of the anticipated "woof" or "arf", citizens across the nation proudly shouted "Hey!" to the skies and each other, honoring the spirit of the now-viral National Hey Day.
 
-With origins clouded in the mysteries of internet virality, National Hey Day has emerged as the latest excuse for adults to behave like slightly unhinged, yet remarkably happy, children. "The beauty of this event is its utter senselessness," stated Greg Mendelson, a 37-year-old accountant who spent his lunch break barking 'Hey!' in the park. "We are humans, not dogs, and yet here we are, barking at each other. It's ridiculous and I love it."
+Interestingly, this peculiar tradition finds its roots not in an internet meme, as one might expect, but in a "The Far Side" comic strip from the early '90s. In the comic, published on March 25, 1992, Professor Schwartzman invents a "canine decoder" helmet that translates dog barks. The punchline? Every dog's bark translates to a simple, singular word: "Hey." Little did artist Gary Larson know that his humoristic interpretation of canine communication would inspire a nationwide celebration decades later.
 
-Even corporate America, not known for its frivolity, has embraced this eccentric celebration. Numerous reports surfaced of boardroom meetings being interrupted by a chorus of "Hey!" barks, followed by laughter and a marked improvement in workplace morale.
+Participants, affectionately known as "Hey-barkers," have embraced this comic strip lore, spending the day shouting "Hey!" outdoors, waiting for a returned "Hey!" from others around. Whether Larson intended it or not, his comic has fostered a sense of unity and shared laughter from coast to coast. 
 
-But it's not all fun and games. Controversy has arisen around the proper technique of 'Hey!' barking, with self-proclaimed Hey-Bark Purists insisting on an elongated, plaintive 'Hey!', while the Urban Hey Group favors a brisk, jovial version. Yet, despite these minor scuffles, National Hey Day continues to thrive.
+Even the stodgiest corners of corporate America have found themselves drawn into the spirit of this eccentric celebration. Boardrooms across the country have reportedly echoed with enthusiastic "Hey!" barks, much to the amusement and morale boost of employees.
 
-"There's just something primal about going outside and hollering into the universe, waiting for an echo," said Professor Linda Choi, an anthropologist studying modern digital trends. "Even if that echo is a fellow human, in a business suit, barking 'Hey!' right back at you."
+However, not even National Hey Day is without its controversies. Debates have arisen over the correct 'Hey!' bark technique, with some favoring a long, plaintive 'Hey!', while others advocate for a brisk, cheery version. Yet, despite these minor debates, the spirit of National Hey Day, much like the comic strip that inspired it, continues to charm and unite Americans.
 
-As the sun set on another successful National Hey Day, the barks began to quiet. The nation took a collective breath and then, as if on cue, a resounding "Hey!" rang out, a reminder of our shared human capacity for connection, laughter, and a little bit of madness. 
+Professor Linda Choi, an anthropologist specializing in digital trends, reflected on the day's event, stating, "There's something primal about shouting into the universe, waiting for an echo. Even more so when that echo is a fellow human, barking 'Hey!' right back at you."
 
-So, until next year, stay hoarse, America. May your 'Hey!' be loud and your return echoes be many.
+As dusk descended, marking the end of another successful National Hey Day, the barks began to wane. The nation took a collective breath, and then, as if on cue, a resounding "Hey!" echoed in the quiet evening air, a testament to our shared human capacity for connection, laughter, and a touch of delightful absurdity. 
+
+So, until next year, keep your 'Hey!' strong, America. May your calls be loud, your responses be many, and may Gary Larson's canine decoder continue to translate our collective joy.
