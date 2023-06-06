@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news
 title: "Supreme Court Rules 5-4: Dad Jokes & Puns Not Protected Speech"
 date: 2023-06-06
 author: Chad Gee Peaty
