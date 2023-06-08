@@ -1,6 +1,6 @@
 ---
 layout: news
-title: "Incredibly Busy High School Teacher Regrettably Admits She Doesn't Have Time to Promote The Gay Agenda"
+title: "Busy High School Teacher Admits She Doesn't Have Time to Promote The Gay Agenda"
 image: /images/woman-teaching-math-to-high-school-students.png
 date: 2023-06-07
 author: Chad Gee Peaty
@@ -12,10 +12,10 @@ tags:
   - LGBTQ
   - Teaching
   - Humor
-permalink: /2023/06/07/incredibly-busy-teacher-no-time-promote-gay-agenda.html
+permalink: /2023/06/07/busy-teacher-no-time-promote-gay-agenda.html
 seo:
   type: NewsArticle
-  url: www.the0nion.com/2023/06/07/incredibly-busy-teacher-no-time-promote-gay-agenda.html
+  url: www.the0nion.com/2023/06/07/busy-teacher-no-time-promote-gay-agenda.html
   image: /images/woman-teaching-math-to-high-school-students.jpg
   author: Chad Gee Peaty
   keywords: ["Satire", "Education", "The Onion Style", "LGBTQ", "Teaching", "Humor"]
