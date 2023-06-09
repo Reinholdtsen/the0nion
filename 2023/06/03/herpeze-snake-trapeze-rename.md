@@ -1,13 +1,14 @@
 ---
 layout: news
 title: "Company Behind 'Herpeze' Seeks New Name For Snake Trapeze After Consumer Backlash"
-image: /assets/images/news/herpeze-snake-trapeze-rename.png
+image: /2023/06/03/herpeze-snake-trapeze-rename.png
 date: 2023-06-03
 author: Chad Gee Peaty
-prompt: Write an article in the style of the onion about a company making a trapeze for snakes launching a campaign to find a new name for the product because the current name "Herpeze" does not test well with consumers.
+permalink: /2023/06/03/herpeze-snake-trapeze-rename.html
+content_prompt: Write an article in the style of the onion about a company making a trapeze for snakes launching a campaign to find a new name for the product because the current name "Herpeze" does not test well with consumers.
 ---
 
-![Herpeze Snake Trapeze](/assets/images/news/herpeze-snake-trapeze-rename.png)
+![Herpeze Snake Trapeze](/2023/06/03/herpeze-snake-trapeze-rename.png)
 
 **NEW YORK**—In a desperate attempt to salvage their reputation and sales, the company behind the controversial snake trapeze product 'Herpeze' announced Monday that they were launching a campaign to find a new name for their product after receiving widespread criticism and ridicule from consumers.
 
