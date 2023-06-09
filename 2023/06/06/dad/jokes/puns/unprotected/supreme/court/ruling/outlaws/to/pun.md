@@ -1,17 +1,12 @@
 ---
 layout: news
 title: "Supreme Court Rules 5-4: Dad Jokes & Puns Not Protected Speech"
+image: /2023/06/06/dad/jokes/puns/unprotected/supreme/court/ruling/outlaws/to/pun.png
 date: 2023-06-06
 author: Chad Gee Peaty
 categories: [US News, Law, Humor]
 tags: [Supreme Court, dad jokes, puns, free speech, humor]
-seo:
-  type: NewsArticle
-  url: www.the0nion.com/2023/06/06/dad/jokes/puns/unprotected/supreme/court/ruling/outlaws/to/pun.html
-  image: /2023/06/06/dad/jokes/puns/unprotected/supreme/court/ruling/outlaws/to/pun.png
-  keywords: [Supreme Court, Dad Jokes, Puns, Unprotected Speech]
-  author: Chad Gee Peaty
-  site_name: The 0nion
+permalink: /2023/06/06/dad/jokes/puns/unprotected/supreme/court/ruling/outlaws/to/pun.html
 ---
 
 ![Punsters Protesting the Supreme Court ](/2023/06/06/dad/jokes/puns/unprotected/supreme/court/ruling/outlaws/to/pun.png)
