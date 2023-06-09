@@ -9,6 +9,7 @@ Serving layers of satire, one 0nion ring at a time.
 
 ## Latest News
 
+* [Supreme Court Dismisses Trump's Charges, Ruling 'Insignificance of Crimes Pales Next to Actual Presidency,' Stuns Both Political Poles](/2023/06/09/supreme-court-dismisses-trumps-charges.html)
 * [Supreme Court Rules 5-4: Dad Jokes & Puns Not Protected Speech](/2023/06/06/dad-jokes-puns-unprotected-supreme-court-ruling-outlaws-to-pun.html)
 * [The Alphapi Innovator: Redefining the World of Numbers and Relationships](/2023/06/06/theo-osterhagen-alphapi-innovator-redefining-numbers-relationships.html)
 * [Busy High School Teacher Admits She Doesn't Have Time to Promote The Gay Agenda](/2023/06/07/busy-teacher-no-time-promote-gay-agenda.html)
