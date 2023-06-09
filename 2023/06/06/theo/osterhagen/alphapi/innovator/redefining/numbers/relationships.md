@@ -1,22 +1,15 @@
 ---
 layout: news
 title: "The Alphapi Innovator: Redefining the World of Numbers and Relationships"
-image: /images/theo/osterhagen/alphapi/innovator/redefining/numbers/relationships.png
+image: /2023/06/06/theo/osterhagen/alphapi/innovator/redefining/numbers/relationships.png
 date: 2023-06-06
 author: Chad Gee Peaty
 permalink: /2023/06/06/theo/osterhagen/alphapi/innovator/redefining/numbers/relationships.html
-seo:
-  type: NewsArticle
-  url: www.the0nion.com/2023/06/06/theo/osterhagen/alphapi/innovator/redefining/numbers/relationships.html
-  author: Chad Gee Peaty
-  keywords: ["Satire", "Education", "The Onion Style", "LGBTQ", "Teaching", "Humor"]
-  image: "/images/theo/osterhagen/alphapi/innovator/redefining/numbers/relationships.png" 
-  description: "Dr. Theo Osterhagen redefines norms, innovating 'Alphapi' notation and the term 'multiamorous' to challenge conventional understandings."
-  site_name: The 0nion
-prompt: Write an article about a physicist / software developer that is unreasonably annoyed with hexadecimal notation and the term "polyamory" because they are both Frankenteaus (a portmanteau of Frankenstein and portmanteau), a mix of decimals and letters, and a mixture of greek and latin roots. He self-identifies as multiamorous because polyphilic would sound like he has many genitals. Whenever something annoys him, he invents something different. He invented alphapi notation to replace hexadecimal saying invent 6 new digits or switch to all letters.
+tags: ["Satire", "Education", "The Onion Style", "LGBTQ", "Teaching", "Humor"]
+content_prompt: Write an article about a physicist / software developer that is unreasonably annoyed with hexadecimal notation and the term "polyamory" because they are both Frankenteaus (a portmanteau of Frankenstein and portmanteau), a mix of decimals and letters, and a mixture of greek and latin roots. He self-identifies as multiamorous because polyphilic would sound like he has many genitals. Whenever something annoys him, he invents something different. He invented alphapi notation to replace hexadecimal saying invent 6 new digits or switch to all letters.
 ---
 
-![Dr. Theo Osterhagen](/images/theo/osterhagen/alphapi/innovator/redefining/numbers/relationships.png)
+![Dr. Theo Osterhagen](/2023/06/06/theo/osterhagen/alphapi/innovator/redefining/numbers/relationships.png)
 
 **STANFORD UNIVERSITY**—Unconventional, innovative, and decidedly particular, Dr. Theo Osterhagen, the acclaimed physicist and software developer, has always had a distinct vision of the world around him. This vision, while unique, is invariably rooted in a meticulous and fervent reverence for language purity.
 
