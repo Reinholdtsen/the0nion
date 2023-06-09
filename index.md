@@ -9,7 +9,7 @@ Serving layers of satire, one 0nion ring at a time.
 
 ## Latest News
 
-* [Apple Unveils World's First 'Noise-Canceling Microphone' To Help Users Forget They Have a Voice](apple-unveils-worlds-first-noise-canceling-microphone-to-help-users-forget-they-have-a-voice.html)
+* [Apple Unveils World's First 'Noise-Canceling Microphone' To Help Users Forget They Have a Voice](/2023/06/09/apple-unveils-worlds-first-noise-canceling-microphone-to-help-users-forget-they-have-a-voice.html)
 * [Supreme Court Dismisses Trump's Charges, Ruling 'Insignificance of Crimes Pales Next to Actual Presidency,' Stuns Both Political Poles](/2023/06/09/supreme-court-dismisses-trumps-charges.html)
 * [Supreme Court Rules 5-4: Dad Jokes & Puns Not Protected Speech](/2023/06/06/dad-jokes-puns-unprotected-supreme-court-ruling-outlaws-to-pun.html)
 * [Eccentric Scientist Advocates for 'F3 System', Insists Metric and Imperial are Merely 'Planckless Disarray'](/2023/06/08/Eccentric-Scientist-Advocates-for-F3-System-Insists-Metric-and-Imperial-are-Merely-Planckless-Disarray.html)
