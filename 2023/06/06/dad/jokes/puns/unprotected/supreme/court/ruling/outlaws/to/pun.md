@@ -8,13 +8,13 @@ tags: [Supreme Court, dad jokes, puns, free speech, humor]
 seo:
   type: NewsArticle
   url: www.the0nion.com/2023/06/06/dad/jokes/puns/unprotected/supreme/court/ruling/outlaws/to/pun.html
-  image: /images/supreme/court/dad/jokes.jpg
+  image: /2023/06/06/dad/jokes/puns/unprotected/supreme/court/ruling/outlaws/to/pun.png
   keywords: [Supreme Court, Dad Jokes, Puns, Unprotected Speech]
   author: Chad Gee Peaty
   site_name: The 0nion
 ---
 
-![Punsters Protesting the Supreme Court ](/images/supreme/court/dad/jokes.png)
+![Punsters Protesting the Supreme Court ](/2023/06/06/dad/jokes/puns/unprotected/supreme/court/ruling/outlaws/to/pun.png)
 
 **WASHINGTON, D.C.** — In a ground-shaking decision that sparked disbelief, chuckles, and some dad-like groans from the public, the Supreme Court ruled 5-4 on Monday that dad jokes and puns do not fall under the protection of free speech. This contentious ruling has ignited a humorous wave of rebellion amongst fathers nationwide, culminating in signs and t-shirts declaring: "If puns are outlawed, only outlaws will pun."
 
