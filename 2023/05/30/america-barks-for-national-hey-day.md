@@ -1,12 +1,13 @@
 ---
 layout: news
 title: "America Barks for National Hey Day"
-image: /assets/images/articles/america-barks-for-national-hey-day.png
+image: /2023/05/30/america-barks-for-national-hey-day.png
 date: 2023-05-30
 author: Chad Gee Peaty
+permalink: /2023/05/30/america-barks-for-national-hey-day.html
 ---
 
-![Hey!](/assets/images/articles/america-barks-for-national-hey-day.png)
+![Hey!](/2023/05/30/america-barks-for-national-hey-day.png)
 
 In an impressive display of collective absurdity, the American populace took to the streets today to bark like dogs. But these weren't your garden-variety barks. Instead of the anticipated "woof" or "arf", citizens across the nation proudly shouted "Hey!" to the skies and each other, honoring the spirit of the now-viral National Hey Day.
 

@@ -12,6 +12,7 @@ Serving layers of satire, one 0nion ring at a time.
 * [Supreme Court Rules 5-4: Dad Jokes & Puns Not Protected Speech](/2023/06/06/dad/jokes/puns/unprotected/supreme/court/ruling/outlaws/to/pun.html)
 * [The Alphapi Innovator: Redefining the World of Numbers and Relationships](/2023/06/06/theo/osterhagen/alphapi/innovator/redefining/numbers/relationships.html)
 * [Busy High School Teacher Admits She Doesn't Have Time to Promote The Gay Agenda](/2023/06/07/busy-teacher-no-time-promote-gay-agenda.html)
+* [America Barks for National Hey Day](/2023/05/30/america-barks-for-national-hey-day.html)
 
 ## Categories
 
