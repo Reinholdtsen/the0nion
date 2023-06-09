@@ -1,7 +1,7 @@
 ---
 layout: news
 title: "Busy High School Teacher Admits She Doesn't Have Time to Promote The Gay Agenda"
-image: /images/woman-teaching-math-to-high-school-students.png
+image: /2023/06/07/busy-teacher-no-time-promote-gay-agenda.png
 date: 2023-06-07
 author: Chad Gee Peaty
 categories: 
@@ -13,19 +13,10 @@ tags:
   - Teaching
   - Humor
 permalink: /2023/06/07/busy-teacher-no-time-promote-gay-agenda.html
-seo:
-  type: NewsArticle
-  url: www.the0nion.com/2023/06/07/busy-teacher-no-time-promote-gay-agenda.html
-  image: /images/woman-teaching-math-to-high-school-students.jpg
-  author: Chad Gee Peaty
-  keywords: ["Satire", "Education", "The Onion Style", "LGBTQ", "Teaching", "Humor"]
-  image: "/images/woman-teaching-math-to-high-school-students.png" 
-  description: "Dayton High School teacher Brenda Weathers addresses misconceptions about her role in the classroom and her supposed 'Gay Agenda' at a recent press conference."
-  site_name: The 0nion
-prompt: Write an article in the style of the onion about a teacher that does not have time to teach kids to be gay.
+content_prompt: Write an article in the style of the onion about a teacher that does not have time to teach kids to be gay.
 ---
 
-![Dayton High School teacher Brenda Weathers addresses misconceptions about her role in the classroom and her supposed 'Gay Agenda' at a recent press conference](/images/woman-teaching-math-to-high-school-students.png)
+![Dayton High School teacher Brenda Weathers addresses misconceptions about her role in the classroom and her supposed 'Gay Agenda' at a recent press conference](/2023/06/07/busy-teacher-no-time-promote-gay-agenda.png)
 
 In a heartfelt press conference held in the shadow of her overflowing lesson planner, Brenda Weathers, a high school teacher from Dayton, Ohio, made a somber announcement: Despite the unfounded fears of some local parents, she simply does not have the time to teach students to be gay. 
 
