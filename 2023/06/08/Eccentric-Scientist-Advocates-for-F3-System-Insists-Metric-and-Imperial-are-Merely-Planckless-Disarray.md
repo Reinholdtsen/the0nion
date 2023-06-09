@@ -13,7 +13,7 @@ content_prompt: "Write an article in the style of the onion about an eccentric s
 image_prompt: "An eccentric scientist holding a giant furlong stick with an oversized pocket watch hanging from his neck, standing next to a firkin of ale and a racehorse."
 ---
 
-![Eccentric Scientist Advocates for 'F3 System'](2023/06/08/Eccentric-Scientist-Advocates-for-F3-System-Insists-Metric-and-Imperial-are-Merely-Planckless-Disarray.png)
+![Eccentric Scientist Advocates for 'F3 System'](/2023/06/08/Eccentric-Scientist-Advocates-for-F3-System-Insists-Metric-and-Imperial-are-Merely-Planckless-Disarray.png)
 
 In an unexpected twist of scientific advocacy, local scientist and self-proclaimed measurement revolutionary, Dr. Horatio Measurenot, is rallying for a new system of measurement dubbed 'F3', claiming it to be the perfect middle ground between the metric system, the imperial units, and the absurdly tiny Planck units. 
 
