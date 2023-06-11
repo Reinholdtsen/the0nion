@@ -9,6 +9,7 @@ Serving layers of satire, one 0nion ring at a time.
 
 ## Latest News
 
+* [Transentient Human Chooses to Identify as Non-Sentient, Reveals Love for ‘Pet Rock’ Lifestyle](/2023/06/11/Transentient-Human-Chooses-to-Identify-as-Non-Sentient-Reveals-Love-for-Pet-Rock-Lifestyle)
 * [Apple Unveils World's First 'Noise-Canceling Microphone' To Help Users Forget They Have a Voice](/2023/06/09/apple-unveils-worlds-first-noise-canceling-microphone-to-help-users-forget-they-have-a-voice.html)
 * [Supreme Court Dismisses Trump's Charges, Ruling 'Insignificance of Crimes Pales Next to Actual Presidency,' Stuns Both Political Poles](/2023/06/09/supreme-court-dismisses-trumps-charges.html)
 * [Supreme Court Rules 5-4: Dad Jokes & Puns Not Protected Speech](/2023/06/06/dad-jokes-puns-unprotected-supreme-court-ruling-outlaws-to-pun.html)
