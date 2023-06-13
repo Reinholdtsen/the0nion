@@ -1,10 +1,10 @@
 ---
 layout: news
 title: "Area Man Mystified by Girlfriend's Mysterious New Container"
-date: 2023-06-12
+date: 2023-06-13
 author: Chad Gee Peaty
-permalink: /2023/06/12/area-man-mystified-by-girlfriends-mysterious-new-container
-image: /2023/06/12/area-man-mystified-by-girlfriends-mysterious-new-container.png
+permalink: /2023/06/13/area-man-mystified-by-girlfriends-mysterious-new-container
+image: /2023/06/13/area-man-mystified-by-girlfriends-mysterious-new-container.png
 categories:
   - Relationships
   - Satire
