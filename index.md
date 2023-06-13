@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The 0nion - Your Source for Finest Satire
+title: {{ site.title }}
 ---
 
 # Welcome to The 0nion
