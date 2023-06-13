@@ -3,9 +3,9 @@ layout: default
 title: {{ site.title }}
 ---
 
-# Welcome to The 0nion
+# Welcome to The 0nion (pronounced the-zer-un-yun) (not affiliated with The Onion)
 
-Serving layers of satire, one 0nion ring at a time.
+{{ site.description }}
 
 ## Latest News
 
@@ -31,7 +31,7 @@ Serving layers of satire, one 0nion ring at a time.
 
 ## About Us
 
-The 0nion is your go-to source for satirical news that's fresh, savory, and sure to bring tears (of laughter). Check out our [about page](/about) to learn more.
+The 0nion is your go-to source for news that's so fresh it hasn't even happened yet. Check out our [about page](/about) to learn more.
 
 ## Contact
 
