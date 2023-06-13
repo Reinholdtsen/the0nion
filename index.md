@@ -9,6 +9,7 @@ Serving layers of satire, one 0nion ring at a time.
 
 ## Latest News
 
+* ![Cocaine Chihuahua](/2023/06/12/Outrageous-Success-of-Cocaine-Bear-Paves-the-Way-for-Rip-Roaring-Sequel-Cocaine-Chihuahua.png)[Outrageous Success of 'Cocaine Bear' Paves the Way for Rip-Roaring Sequel: 'Cocaine Chihuahua'](/2023/06/12/Outrageous-Success-of-Cocaine-Bear-Paves-the-Way-for-Rip-Roaring-Sequel-Cocaine-Chihuahua)
 * [In A Stunning Display of Identity Fluidity, Transcanavian Assigned Swedish at Birth Boldly Identifies as Norwegian](/2023/06/11/in-a-stunning-display-of-identity-fluidity-transcanavian-assigned-swedish-at-birth-boldly-identifies-as-norwegian)
 * [Revolutionary Breakthrough: Middle-American Couple Unveils Game-Changing 96 Position](/2023/06/11/revolutionary-breakthrough-middle-american-couple-unveils-game-changing-96-position)
 * [Transentient Human Chooses to Identify as Non-Sentient, Reveals Love for ‘Pet Rock’ Lifestyle](/2023/06/11/Transentient-Human-Chooses-to-Identify-as-Non-Sentient-Reveals-Love-for-Pet-Rock-Lifestyle)
