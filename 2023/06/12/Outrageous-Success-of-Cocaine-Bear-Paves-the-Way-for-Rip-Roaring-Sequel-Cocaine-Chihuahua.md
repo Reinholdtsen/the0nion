@@ -31,4 +31,8 @@ Screenwriter, P.T. Schnozzle, spoke excitedly about the film at a press conferen
 
 Hollywood insiders have revealed that A-list actor, Sir Patrick Stewart, is being courted to voice the chihuahua protagonist, Chico, with Danny DeVito rumored to be the voice of a cantankerous, world-weary squirrel sidekick.
 
-Casting decisions have been met with some controversy. Animal rights activists have expressed concerns about the well-being of the chihuahua in question. However, the studio has reassured everyone that the "cocaine" in the movie is a safe, flour-based substitute and that the ch
+Casting decisions have been met with some controversy. Animal rights activists have expressed concerns about the well-being of the chihuahua in question. However, the studio has reassured everyone that the "cocaine" in the movie is a safe, flour-based substitute and that the chihuahua in question has completed rehab and is living comfortably with Sir Patrick Stewart.
+
+While we eagerly await the release of "Cocaine Chihuahua," it's safe to say that the new wave of Narcotics-themed Animal Cinema (NTAC) has made a huge impact on the industry. So, get your popcorn ready, because Chico the Chihuahua is ready to take the cinematic world by storm!
+
+"Cocaine Chihuahua" is scheduled for release in the summer of 2024. Viewer discretion is advised due to excessive chihuahua cuteness and scenes of a squirrel with a New Jersey accent arguing about the merits of almond versus peanut butter.
