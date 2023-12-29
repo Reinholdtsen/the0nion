@@ -1,3 +1,4 @@
+---
 layout: news
 title: "Leonard Bernstein’s Children Release Statement Confirming Father Wore Big Prosthetic Nose In Real Life"
 date: 2023-12-29
@@ -10,7 +11,6 @@ excerpt: In a stunning revelation, the children of famed composer Leonard Bernst
 published: true
 content_prompt: Write an article titled, "Leonard Bernstein’s Children Release Statement Confirming Father Wore Big Prosthetic Nose In Real Life" in response to controversy surrounding Bradley Cooper wearing a fake nose filming Bernstein's biopic.
 image_prompt: A humorous image of a family releasing a statement, looking very serious, while holding a giant, exaggerated prosthetic nose. The setting is a formal press conference with microphones and reporters in the background. The family members are diverse in appearance, wearing formal attire, and the prosthetic nose is comically oversized, drawing attention. The atmosphere is satirical, yet the family maintains a serious demeanor.
-
 ---
 
 ![Bernstein Family Press Conference](/2023/12/29/leonard-bernsteins-children-confirm-father-wore-big-prosthetic-nose.png)
