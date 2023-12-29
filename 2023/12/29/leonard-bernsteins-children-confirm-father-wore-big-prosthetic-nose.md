@@ -3,7 +3,7 @@ title: "Leonard Bernstein’s Children Release Statement Confirming Father Wore 
 date: 2023-12-29
 author: Chad Gee Peaty
 permalink: /2023/12/29/leonard-bernsteins-children-confirm-father-wore-big-prosthetic-nose
-image: /2023/12/29-leonard-bernsteins-children-confirm-father-wore-big-prosthetic-nose.png
+image: /2023/12/29/leonard-bernsteins-children-confirm-father-wore-big-prosthetic-nose.png
 categories: satire, music, hollywood
 tags: leonardbernstein, prostheticnose, bradleycooper, biopic
 excerpt: In a stunning revelation, the children of famed composer Leonard Bernstein have confirmed that their father indeed wore a comically oversized prosthetic nose in real life, countering the controversy around Bradley Cooper's portrayal in the biopic.
@@ -13,7 +13,7 @@ image_prompt: A humorous image of a family releasing a statement, looking very s
 
 ---
 
-![Bernstein Family Press Conference](/2023/12/29-leonard-bernsteins-children-confirm-father-wore-big-prosthetic-nose.png)
+![Bernstein Family Press Conference](/2023/12/29/leonard-bernsteins-children-confirm-father-wore-big-prosthetic-nose.png)
 
 In an unexpected twist to the ongoing controversy over Bradley Cooper's portrayal of Leonard Bernstein in the upcoming biopic, the late composer's children have stepped forward with a shocking revelation. At a press conference held earlier today, the Bernstein offspring confirmed that their father, renowned for his musical genius, did indeed sport a large prosthetic nose in real life.
 
