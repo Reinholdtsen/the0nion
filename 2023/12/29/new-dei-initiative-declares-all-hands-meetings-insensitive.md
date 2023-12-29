@@ -4,7 +4,7 @@ title: "New DEI Initiative Declares 'All Hands' Meetings Insensitive to Handless
 date: 2023-12-29
 author: Chad Gee Peaty
 permalink: /2023/12/29/new-dei-initiative-declares-all-hands-meetings-insensitive/
-image: /2023/12/29/new-dei-initiative-declares-all-hands-meetings-insensitive.jpg
+image: /2023/12/29/new-dei-initiative-declares-all-hands-meetings-insensitive.png
 categories: [Business, Society]
 tags: [DEI, Inclusivity, Corporate Culture]
 excerpt: "In a groundbreaking move, a major corporation has redefined corporate lingo, banning the phrase 'All Hands' meeting for being insensitive to the handless community."
@@ -13,7 +13,7 @@ content_prompt: "Write an article about a DEI initiative that says that referrin
 image_prompt: "a business conference room with a sign on the wall reading ‘Inclusive Language Meeting: No More ‘All Hands’’, showing a diverse group of professionals sitting around a table, some with prosthetic hands, others using sign language, in a photorealistic style, 1792x1024"
 ---
 
-![Inclusive Language Meeting](/2023/12/29/new-dei-initiative-declares-all-hands-meetings-insensitive.jpg)
+![Inclusive Language Meeting](/2023/12/29/new-dei-initiative-declares-all-hands-meetings-insensitive.png)
 
 In what's being hailed as a landmark victory for inclusivity, MegaCorp Inc. has announced a new diversity, equity, and inclusion (DEI) initiative that is shaking up the corporate world. The initiative includes a comprehensive ban on the phrase "All Hands" meeting, deeming it insensitive to individuals without hands.
 
